@@ -1,0 +1,156 @@
+2025-06-13 Opening Balances
+    Assets:StudentAccount   100 GBP
+    Assets:EmergencyFund    0 
+    Assets:Savings    0
+    Income:ARM    0
+    Income:EDEN   0
+    Income:StudentFinance   0
+    Expenses:Food   0
+    Expenses:Rent   0
+    Expenses:Judo   0
+    Expenses:Gym    0
+    Expenses:ADHDSupports   0
+    Expenses:Hobbies    0
+    Expenses:GoingOut   0
+    equity:opening-balances   -100 GBP
+
+2025-06-26 Check-In Rent CamFoundry
+    Expenses:Rent   880 GBP
+    Assets:StudentAccount   -880 GBP
+
+2025-07-01 Gym Initial Payments
+    Expenses:Gym    34 GBP
+    Assets:StudentAccount   -34 GBP
+
+2025-07-02 Food Monthly
+    Expenses:Food   160 GBP
+    Assets:StudentAccount   -160GBP
+
+2025-07-27 Second Instalment Rent CamFoundry
+    Expenses:Rent   880 GBP
+    Assets:StudentAccount   -880 GBP
+
+2025-07-27 ARM Monthly
+    Assets:StudentAccount   1913 GBP
+    Income:ARM    -1913 GBP
+
+2025-07-30 Judo Initial Payments
+    Assets:StudentAccount   -110 GBP
+    Expenses:Judo   110 GBP
+
+2025-08-01 Gym Monthly
+    Expenses:Gym    24 GBP
+    Assets:StudentAccount   -24 GBP
+
+2025-08-02 Food Monthly
+    Expenses:Food   160 GBP
+    Assets:StudentAccount   -160GBP
+
+2025-08-25 Student Finance Payment Not Corrected
+    Assets:StudentAccount   399.69 GBP
+    Income:StudentFinance   -399.69 GBP
+
+2025-08-27
+    Assets:StudentAccount   1913 GBP
+    Income:ARM    -1913 GBP
+
+2025-08-30 Judo Monthly 
+    Assets:StudentAccount   -25 GBP
+    Expenses:Judo   25 GBP
+
+2025-09-01 Gym Monthly
+    Expenses:Gym    24 GBP
+    Assets:StudentAccount   -24 GBP
+
+2025-09-02 Food Monthly
+    Expenses:Food   160 GBP
+    Assets:StudentAccount   -160GBP
+
+2025-09-27
+    Assets:StudentAccount   1913 GBP
+    Income:ARM    -1913 GBP
+
+2025-09-30 Judo Monthly 
+    Assets:StudentAccount   -25 GBP
+    Expenses:Judo   25 GBP
+
+2025-10-01 Gym Monthly
+    Expenses:Gym    24 GBP
+    Assets:StudentAccount   -24 GBP
+
+2025-10-02 Food Monthly
+    Expenses:Food   160 GBP
+    Assets:StudentAccount   -160GBP
+
+2025-10-27
+    Assets:StudentAccount   1913 GBP
+    Income:ARM    -1913 GBP
+
+2025-10-30 Judo Monthly 
+    Assets:StudentAccount   -25 GBP
+    Expenses:Judo   25 GBP
+
+2025-11-01 Gym Monthly
+    Expenses:Gym    24 GBP
+    Assets:StudentAccount   -24 GBP
+
+
+2025-11-02 Food Monthly
+    Expenses:Food   160 GBP
+    Assets:StudentAccount   -160GBP
+
+2025-11-27 ARM Monthly
+    Assets:StudentAccount   1913 GBP
+    Income:ARM    -1913 GBP
+
+2025-11-30 Judo Monthly 
+    Assets:StudentAccount   -25 GBP
+    Expenses:Judo   25 GBP
+
+2025-12-01 Gym Monthly
+    Expenses:Gym    24 GBP
+    Assets:StudentAccount   -24 GBP
+
+
+2025-12-02 Food Monthly
+    Expenses:Food   160 GBP
+    Assets:StudentAccount   -160GBP
+
+2025-12-27 ARM Monthly
+    Assets:StudentAccount   1913 GBP
+    Income:ARM    -1913 GBP
+
+2025-12-30 Judo Monthly 
+    Assets:StudentAccount   -25 GBP
+    Expenses:Judo   25 GBP
+
+2026-01-01 Gym Monthly
+    Expenses:Gym    24 GBP
+    Assets:StudentAccount   -24 GBP
+
+2025-01-02 Food Monthly
+    Expenses:Food   160 GBP
+    Assets:StudentAccount   -160GBP
+
+2026-01-05 Student Finance Payment Corrected
+    Assets:StudentAccount   399.69 GBP
+    Income:StudentFinance   -399.69 GBP
+
+2026-01-27 ARM Monthly
+    Assets:StudentAccount   1913 GBP
+    Income:ARM    -1913 GBP
+
+2026-01-30 Judo Monthly 
+    Assets:StudentAccount   -25 GBP
+    Expenses:Judo   25 GBP
+
+2026-04-13 Student Finance Payment Corrected
+    Assets:StudentAccount   411.80 GBP
+    Income:StudentFinance   -411.80 GBP
+
+
+
+
+
+
+
