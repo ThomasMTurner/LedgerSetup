@@ -14,3 +14,4 @@ Includes ledger for Cambridge 2025 for personal finance management using Ledger 
 - Dates for Gym and Judo payments are tentative. Change to the actual recurring direct debit payment dates.
 - This budget is up-to-date until **January**.
 - This incredibly useful command generates monthly reports, especially displaying the projected balance for the student account: `ledger -f thomas-turner.ledger register '^(Income|Expenses)$' --monthly`. `--weekly` and `--yearly` can also be used, if this is helpful.
+- Currently estimated Food costs as £160 monthly. This is based on £35 grocery shop, totalling £140 monthly. £20 is given as a safety margin - including burnout takeaway.
