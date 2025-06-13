@@ -12,3 +12,4 @@ Includes ledger for Cambridge 2025 for personal finance management using Ledger 
 - Research appropriate savings instruments. Currently, the Savings Asset will be collected in my Barclays instant-access savings account. However, this likely is low-interest. Again, researching this at some point would be good.
 - Until we setup an environment variable, the following command can be used to list all accounts, including those with zero balance: `ledger -f thomas-turner.ledger accounts -E`.
 - Dates for Gym and Judo payments are tentative. Change to the actual recurring direct debit payment dates.
+- This budget is up-to-date until **January**.
