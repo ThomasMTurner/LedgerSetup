@@ -13,3 +13,4 @@ Includes ledger for Cambridge 2025 for personal finance management using Ledger 
 - Until we setup an environment variable, the following command can be used to list all accounts, including those with zero balance: `ledger -f thomas-turner.ledger accounts -E`.
 - Dates for Gym and Judo payments are tentative. Change to the actual recurring direct debit payment dates.
 - This budget is up-to-date until **January**.
+- This incredibly useful command generates monthly reports, especially displaying the projected balance for the student account: `ledger -f thomas-turner.ledger register '^(Income|Expenses)$' --monthly`.
